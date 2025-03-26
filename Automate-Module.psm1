@@ -19,8 +19,8 @@
         https://gallery.technet.microsoft.com/scriptcenter/Invoke-Ping-Test-in-b553242a
         
         Get-IPv4Subnet
-        https://github.com/briansworth/GetIPv4Address/blob/master/GetIPv4Subnet.psm1
-
+        https://github.com/ScriptDrops/GetIPv4Address/blob/main/GetIPv4Subnet.psm1
+        
 .LINK
     https://github.com/Braingears/PowerShell
     
